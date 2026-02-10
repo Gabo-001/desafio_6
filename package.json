@@ -1,5 +1,5 @@
 {
-  "name": "desafio_6",
+  "name": "unidad6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "devDependencies": {
-    "jest": "^30.2.0"
-  },
   "dependencies": {
+    "appium": "^3.2.0",
     "webdriverio": "^9.23.3"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^6.8.0",
+    "jest": "^30.2.0"
   }
 }
